@@ -1,0 +1,19 @@
+.display-result-container {
+    height: 12rem;
+    width: 80rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#result-title {
+    font-size: 2rem;
+    padding-top: 2rem;
+    
+}
+
+#country-display {
+    font-size: 3rem;
+}
