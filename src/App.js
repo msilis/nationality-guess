@@ -26,8 +26,7 @@ function App() {
         setCountry(codeJsonData[0].name.common);
         
     }
-    const fetchResult = fetchName().
-    catch(console.error);
+    const fetchResult = fetchName().catch(console.error);
     
 }
 
