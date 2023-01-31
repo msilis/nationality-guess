@@ -1,5 +1,5 @@
 .display-result-container {
-    height: 12rem;
+    height: 16rem;
     width: 80rem;
     border-radius: 10px;
     box-shadow: 5px 5px 5px black;
@@ -17,3 +17,8 @@
 #country-display {
     font-size: 3rem;
 }
+
+#probability-display {
+    font-size: 1.5rem;
+}
+
